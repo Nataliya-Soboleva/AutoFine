@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Nata/ItStep/AndroidJava/AutoFine/app/src/main/res/layout/activity_check_fines.xml" value="0.3067708333333333" />
+        <entry key="..\:/Nata/ItStep/AndroidJava/AutoFine/app/src/main/res/layout/activity_fines_data.xml" value="0.225" />
+        <entry key="..\:/Nata/ItStep/AndroidJava/AutoFine/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Nata/ItStep/AndroidJava/AutoFine/app/src/main/res/layout/activity_selected_fine_data.xml" value="0.28958333333333336" />
+        <entry key="..\:/Nata/ItStep/AndroidJava/AutoFine/app/src/main/res/layout/car_item.xml" value="0.3067708333333333" />
+        <entry key="..\:/Nata/ItStep/AndroidJava/AutoFine/app/src/main/res/layout/fine_item.xml" value="0.23958333333333334" />
+        <entry key="..\:/Nata/ItStep/AndroidJava/AutoFine/app/src/main/res/layout/fragment_main_page.xml" value="0.209375" />
+        <entry key="..\:/Nata/ItStep/AndroidJava/AutoFine/app/src/main/res/layout/fragment_support.xml" value="0.209375" />
+        <entry key="..\:/Nata/ItStep/AndroidJava/AutoFine/app/src/main/res/layout/fragment_user_agreement.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

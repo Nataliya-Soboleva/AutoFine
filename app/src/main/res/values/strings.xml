@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AutoFine</string>
+    <string name="support">Техническая поддержка</string>
+    <string name="user_agreement">Пользовательское соглашение</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main">Главная</string>
+    <string name="tv_search">Поиск</string>
+    <string name="tv_fines">Штрафы</string>
+    <string name="tv_info_document">Серия и номер удостоверения водителя или паспорта, или техпаспорт ТС</string>
+    <string name="series_document_number">Серия и номер документа</string>
+    <string name="btn_check_fines">Проверить штрафы</string>
+    <string name="tv_agreement">Используя приложение \'Штрафы ПДД\' вы автоматически соглашаетесь с условиями использования</string>
+    <string name="auto_fine_gmail_com">auto_fine@gmail.com</string>
+    <string name="tv_user_agreement">Пользовательское соглашение</string>
+    <string name="et_auto_number">Номер транспортного средства</string>
+    <string name="close">Закрыть</string>
+    <string name="btn_close">Закрыть</string>
+    <string name="tv_my_car">Мои автомобили</string>
+    <string name="fines_by_car">Штрафы по автомобилю :</string>
+    <string name="date_of_violation">Дата нарушения ПДД :</string>
+    <string name="type_of_violation">Тип нарушения ПДД :</string>
+    <string name="decree_number">Номер постановления :</string>
+    <string name="fine_amount">Выписан штраф в сумме :</string>
+    <string name="payment_status">Статус оплаты :</string>
+</resources>

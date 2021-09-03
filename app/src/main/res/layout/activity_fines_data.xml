@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp"
+    android:background="@color/white_smoke"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <TextView
+        android:id="@+id/txtFinesByCar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/fines_by_car"
+        android:textColor="@color/black"
+        />
+    <ImageView
+        android:id="@+id/imageCar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/auto_ico"
+        android:layout_marginTop="15dp"
+        />
+
+    <TextView
+        android:id="@+id/txtCarPlateNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="16dp"
+         />
+    <Button
+        android:id="@+id/btnDeleteCar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Удалить автомобиль"
+        android:textSize="15dp"
+        />
+
+    <TextView
+        android:id="@+id/txtCarDocumentNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12dp"
+        android:layout_marginTop="4dp"
+        />
+    <GridView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:numColumns="1"
+        android:id="@+id/gvCarFines"
+        />
+
+
+</LinearLayout>
